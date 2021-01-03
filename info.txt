@@ -1,0 +1,3 @@
+What is Stock Market Spam Ham?
+It is a python based Mechine Learning program to detect spam emails. 
+
